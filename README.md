@@ -1,6 +1,6 @@
-^^ - 66 bài tập mỗi ngày với cấ trúc dữ liệu và giải thuật sử dụng ngôn ngữ python
+## ^^ - 66 Problem Hackerrank With Python
 ===========
-Danh sách bài:
+List:
 Jumping on the Clouds: Revisited
 Find Digits
 Sherlock and Squares
