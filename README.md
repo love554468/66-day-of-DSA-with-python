@@ -1,6 +1,6 @@
 ## ^^ - 66 Problem Hackerrank With Python
-===========
-List:
+
+
     Jumping on the Clouds: Revisited
     Find Digits
     Sherlock and Squares
